@@ -1,4 +1,4 @@
-#Introdcution
+# Introdcution
 
 This repository maintains a recorded commit history of the exercises within the assignment brief. The exercises demonstrate an appreciation of Git, C, and Python.
 
@@ -10,10 +10,10 @@ Tasks involving Python required the execution of Python script, after being impo
 
 Describe the purpose of the repo, keeping it less than 100 words. Use the brief as a good starting point.
 
-#Prerequisites
+# Prerequisites
 -gcc 2.46.2.windows.1 
 -nano 8.2 
 What do you need to run the code in this repo, include version numbers of software/packages.
 
-#Author
-WShute1
+## Author
+[WShute1](https://github.com/WShute1)
