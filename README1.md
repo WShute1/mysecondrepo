@@ -8,12 +8,21 @@ Tasks requiring the application of C are located inside the C sub-folder and inc
 
 Tasks involving Python required the execution of Python script, after being imported to the main.py file and can be accessed in the Python subfolder.
 
-Describe the purpose of the repo, keeping it less than 100 words. Use the brief as a good starting point.
-
 # Prerequisites
--gcc 2.46.2.windows.1 
--nano 8.2 
-What do you need to run the code in this repo, include version numbers of software/packages.
+
+git                2.46.2.windows.1
+
+GCC                14.2.0
+
+Docker             w64devkit-x64-2.0.0.
+
+nano               8.2
+
+vim                Vi Improved 9.1
+
+Visual Studio Code 1.94.2
+
+OS                 10.0.22631     
 
 ## Author
 [WShute1](https://github.com/WShute1)
