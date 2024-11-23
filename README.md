@@ -1,3 +1,5 @@
+The BELOW IS JUST A TEST RUN FOR THE ASSIGNMENT. THE ACTUAL REPOSITORY IS RELATED TO ALL MANNER OF EXERCISES AND TEST RUNS RELATED TO PROGRAMMING COURSE.
+
 # Introdcution
 
 This repository maintains a recorded commit history of the exercises within the assignment brief. The exercises demonstrate an appreciation of Git, C, and Python.
